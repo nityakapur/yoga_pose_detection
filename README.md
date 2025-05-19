@@ -33,5 +33,16 @@ EfficientNetB0 helps in obtaining the best accuracy of 88.34% and loss of 0.5114
 
 ![image](https://github.com/user-attachments/assets/fde11cf9-5a61-4272-9f6b-75dd20fccb3e)
 
+## Tester Results :
+
+### Image Tester Results :
+
+![image](https://github.com/user-attachments/assets/eae46779-7dd2-414f-9b40-abdf99ff11be)
+
+### Video Tester Screenshot Results with Mediapipe Application:
+
+![image](https://github.com/user-attachments/assets/156a7d4b-e7c3-48a7-aad0-5a3da464529d)
+
+
 
  
